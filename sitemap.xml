@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Dynamic SEO Map generated for SonarTech Blog on 2026-05-23 -->
+
+  <!-- 1. Home Page / Root Index -->
+  <url>
+    <loc>https://sonartech-theme.com/</loc>
+    <lastmod>2026-05-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- 2. Post-1: ২০২৬ সালে গুগলে ১ নম্বর রেঙ্ক পাওয়ার ১০টি কার্যকরী অন-পেজ এসইও টিপস -->
+  <!-- Category: এসইও গাইড -->
+  <url>
+    <loc>https://sonartech-theme.com/category/%E0%A6%8F%E0%A6%B8%E0%A6%8Wait%E0%A6%93%20%E0%A6%97%E0%A6%BE%E0%A6%8Wait%E0%A6%A1/post-1</loc>
+    <lastmod>2026-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 3. Post-2: ডোমেইন হোস্টিং কেনার পূর্বে যে ৫টি মারাত্মক ভুল কখনোই করা যাবে না! -->
+  <!-- Category: হোস্টিং গাইড -->
+  <url>
+    <loc>https://sonartech-theme.com/category/%E0%A6%B9%E0%A7%8B%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%8Wait%20%E0%A6%97%E0%A6%BE%E0%A6%8Wait%E0%A6%A1/post-2</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 4. Post-3: The Rise of Next-Gen CSS: Exploring Core Web Vitals Optimization in 2026 -->
+  <!-- Category: Engineering -->
+  <url>
+    <loc>https://sonartech-theme.com/category/Engineering/post-3</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 5. Post-4: ভিডিও ব্লগিংয়ের ভবিষ্যৎ: কীভাবে ইউটিউব ও ফেসবুকের পাশাপাশি নিজস্ব পোর্টালে ট্রাফিক বাড়াবেন? -->
+  <!-- Category: ভিডিও মার্কেটিং -->
+  <url>
+    <loc>https://sonartech-theme.com/category/%E0%A6%AD%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%93%20%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A7%87%E0%A6%9F%E0%A6%BF%E0%A6%8Wait/post-4</loc>
+    <lastmod>2026-05-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 6. Post-5: How to Target High CPC Tech Niches for AdSense Arbitrage & Pure SEO Growth -->
+  <!-- Category: Finance -->
+  <url>
+    <loc>https://sonartech-theme.com/category/Finance/post-5</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>

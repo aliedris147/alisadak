@@ -1,0 +1,8 @@
+{
+  "name": "Velocity SEO Blog Theme",
+  "description": "A responsive, SEO-optimized, ultra-fast Bengali & English blog theme with manual/auto-sliding Hero Ads, AdSense ready layout, interactive Admin Theme Customizer, and live preview schema generators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
